@@ -100,7 +100,7 @@ pycparser==2.20
 pydantic==1.8.2
 pydeck==0.6.2
 Pygments==2.9.0
-pyLDAvis==3.3.1
+pyLDAvis==3.2.2
 pynndescent==0.5.2
 pyod==0.8.9
 pyparsing==2.4.7
